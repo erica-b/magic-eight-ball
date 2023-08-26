@@ -1,9 +1,6 @@
-# React + Vite
+# Magic Eight Ball
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Type in your question. Hit the Ask Magic 8 Ball button! Wait while it thinks a second… get your answer! Try it here: https://magic-eight-ball11.onrender.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # magic-eight-ball
