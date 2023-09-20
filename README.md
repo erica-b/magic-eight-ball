@@ -19,7 +19,7 @@ Try it here: https://magic-eight-ball11.onrender.com/
 ### Installing
 
 1. Clone the repository:
-  * git clone https://github.com/dkd03813/HigherOrLowerGame.git
+  * git clone https://github.com/erica-b/magic-eight-ball.git
  
 
 - Install dependencies:
@@ -27,7 +27,8 @@ Try it here: https://magic-eight-ball11.onrender.com/
  
 ### Executing program
 
-1. Open `index.html` in your web browser.
+1. **npm run dev** in your terminal
+
 
 ## Authors
 
